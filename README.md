@@ -8,9 +8,10 @@ sddcsdcdscsd
 # taks list
 -  zakupy
 - [x] kino
-- http://www.github.com
+- http://www.github.com :sunglasses:
 - nauka Gita
 # bla bla bla
 cos do czwartego commit'u
 cos sobie zmienilem zeby zobaczyc czy sie sciagnie do konsoli :P
 cos sobie znowu dopisalem w przegladarce zeby zobaczyc w konsoli :P:P
+:yum:
