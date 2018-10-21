@@ -13,3 +13,4 @@ sddcsdcdscsd
 # bla bla bla
 cos do czwartego commit'u
 cos sobie zmienilem zeby zobaczyc czy sie sciagnie do konsoli :P
+cos sobie znowu dopisalem w przegladarce zeby zobaczyc w konsoli :P:P
