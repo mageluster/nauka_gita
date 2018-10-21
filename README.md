@@ -11,3 +11,4 @@ sddcsdcdscsd
 - http://www.github.com
 - nauka Gita
 # bla bla bla
+cos do czwartego commit'u
