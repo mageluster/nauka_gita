@@ -12,3 +12,4 @@ sddcsdcdscsd
 - nauka Gita
 # bla bla bla
 cos do czwartego commit'u
+cos sobie zmienilem zeby zobaczyc czy sie sciagnie do konsoli :P
